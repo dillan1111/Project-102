@@ -1,0 +1,7 @@
+#ideas for C-102 project
+
+1. conversion calculators for distance
+2. search a file with specific extensions
+3. list the contents and directories of a folder
+4. copying file contents to clipboard
+5. Weather details for a city
